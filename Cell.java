@@ -1,5 +1,5 @@
-//Catarina Monteiro dos Ramos i6165818 and Maciej Nowaczyk i6134027 
-//group 23
+// Maciej Nowaczyk
+
 
 import java.util.ArrayList;
 
